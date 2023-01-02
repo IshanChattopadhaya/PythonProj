@@ -1,0 +1,14 @@
+Name of the student : IC 
+Class Roll of the student : 31 
+Stream of the student : CSE 
+Your Student ID is : CSE2231
+
+Marks obtained in Math is : 80 
+Marks obtained in Python is : 90 
+Marks obtained in Physics is : 90 
+Marks obtained in BEE is : 80 
+Marks obtained in Biology is : 90 
+Marks obtained in English is : 90 
+
+You have got 520 in total with 86%
+Excellent Performance... You have passed with grade B.

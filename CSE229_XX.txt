@@ -1,0 +1,14 @@
+Name of the student : XX 
+Class Roll of the student : 9 
+Stream of the student : CSE 
+Your Student ID is : CSE229
+
+Marks obtained in Math is : 90 
+Marks obtained in Python is : 78 
+Marks obtained in Physics is : 100 
+Marks obtained in BEE is : null 
+Marks obtained in Biology is : 20 
+Marks obtained in English is : 30 
+
+You have got 328 in total with 54%
+Below average... You have passed with grade E.

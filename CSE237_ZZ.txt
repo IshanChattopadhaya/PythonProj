@@ -1,0 +1,14 @@
+Name of the student : ZZ 
+Class Roll of the student : 7 
+Stream of the student : CSE 
+Your Student ID is : CSE237
+
+Marks obtained in Math is : 10 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 0 
+Marks obtained in BEE is : 0 
+Marks obtained in Biology is : 10 
+Marks obtained in English is : 100 
+
+You have got 220 in total with 36%
+Extremely poor performance... You have Failed and got F.

@@ -1,0 +1,14 @@
+Name of the student : AA 
+Class Roll of the student : 56 
+Stream of the student : CSE 
+Your Student ID is : CSE2256
+
+Marks obtained in Math is : 30 
+Marks obtained in Python is : 20 
+Marks obtained in Physics is : 40 
+Marks obtained in BEE is : 80 
+Marks obtained in Biology is : 90 
+Marks obtained in English is : 100 
+
+You have got 360 in total with 60%
+Average performance... You have passed the exam with grade D.

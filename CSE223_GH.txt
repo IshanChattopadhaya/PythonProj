@@ -1,0 +1,14 @@
+Name of the student : GH 
+Class Roll of the student : 3 
+Stream of the student : CSE 
+Your Student ID is : CSE223
+
+Marks obtained in Math is : 99 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 88 
+Marks obtained in BEE is : 88 
+Marks obtained in Biology is : 99 
+Marks obtained in English is : 100 
+
+You have got 574 in total with 95%
+Outstanding Performance... You have passed with grade A.
